@@ -1,5 +1,8 @@
 ---
-title: "Arine"
+title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Arine Israelyan**, I attend the *N2 school in Kapan*.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
