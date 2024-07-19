@@ -8,9 +8,12 @@ execute:
 #| message: false
 #| label: setup
 library(tidyverse)
+library(knitr)
 ```
 
 ```{r}
 #| label: diamonds-plot
+
+knitr::include_graphics("size_v_weight.png")
 ```
 
